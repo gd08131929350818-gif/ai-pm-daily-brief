@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI PM Daily Brief"
+  short_description: "AI product manager intelligence workflow"
+  default_prompt: "Use $ai-pm-daily-brief to collect, filter, and write today’s AI product manager daily brief."
